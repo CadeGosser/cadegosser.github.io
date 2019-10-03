@@ -1,0 +1,12 @@
+Origin: Kades Repo
+Label: Kades Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The Best Damn Repo
+
+SHA256:
+ d5950865353e66e417fd588ffd193f68fc2fa1ed0b6858361476a64247ef62f2 535 Packages.bz2
+ e4aa92cd83bc4d00d789856f02b521420e312eb81ad59993918366465e217b14 536 Packages.xz
